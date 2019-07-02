@@ -1,0 +1,5 @@
+airports,top,5
+population,last,3+area-land,last,3
+death_rate,top,3+literacy-female,top,4+area-water,top,2
+airports,last,3+death_rate,last,2+literacy-female,top,2
+area-water,last,4+population,top,2+area-land,last,1

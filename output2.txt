@@ -1,0 +1,5 @@
+[Argentina, Bolivia, Brazil, Mexico, Russia]
+[Bulgaria, Burundi, Israel, Papua New Guinea, Paraguay, Rwanda]
+[Azerbaijan, Bulgaria, Chad, India, Kazakhstan, North Korea, Russia, Ukraine]
+[Azerbaijan, Benin, Burundi, Iraq, North Korea, Rwanda, Syria]
+[Burkina Faso, China, Guinea, India, Israel, Morocco, North Korea]

@@ -1,0 +1,10 @@
+area-total,last,5
+area-land,last,5
+area-water,last,5
+population,last,5
+median_age-male,last,5
+median_age-female,last,5
+birth_rate,last,5
+death_rate,last,5
+literacy-female,last,5
+airports,last,5
